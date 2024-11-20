@@ -1,4 +1,4 @@
-(footprint "RPI_Pico_zero"
+(footprint "RPI_Pico_zero_SMD"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "RPI_Pico_zero"
+	(property "Value" "RPI_Pico_zero_SMD"
 		(at 0 3.58 0)
 		(unlocked yes)
 		(layer "F.Fab")
